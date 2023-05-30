@@ -1,4 +1,4 @@
-Studing ML&NLP
+Studying ML&NLP
 
 Pre-Master
 
