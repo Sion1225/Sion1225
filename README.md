@@ -1,6 +1,6 @@
 Studying ML&NLP
 
-Pre-Master
+In the Master course
 
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
