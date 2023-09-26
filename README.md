@@ -7,5 +7,6 @@ In the Master course
 ![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch)
 ![Numpy](https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)
