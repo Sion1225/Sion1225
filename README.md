@@ -1,3 +1,5 @@
+Siwon Seo(徐 恃源)
+
 Studying ML&NLP
 
 In the Master course
