@@ -2,7 +2,7 @@ Siwon Seo(徐 恃源)
 
 Studying ML,DS and NLP
 
-In the Master course
+M.S.
 
 [![Resume](https://img.shields.io/badge/Resume-CV-green)](https://sites.google.com/view/siwonseo)
 
