@@ -21,4 +21,4 @@ M.E.
 ---
 
 
-<img width="750" alt="Tec_stack" src="https://github.com/user-attachments/assets/ce86000a-9763-473a-b3bd-c36aaf776945" />
+<img width="650" alt="Tec_stack" src="https://github.com/user-attachments/assets/ce86000a-9763-473a-b3bd-c36aaf776945" />
