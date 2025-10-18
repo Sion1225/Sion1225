@@ -17,3 +17,8 @@ M.E.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+---
+
+
+<img width="750" alt="Tec_stack" src="https://github.com/user-attachments/assets/ce86000a-9763-473a-b3bd-c36aaf776945" />
