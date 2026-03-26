@@ -2,7 +2,7 @@ Siwon Seo(徐 恃源)
 
 Studying ML,DS and NLP
 
-M.E.
+M.Eng.
 
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/siwon-seo-31797b369/)
 
